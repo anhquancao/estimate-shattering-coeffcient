@@ -3,3 +3,88 @@ fatal: not a git repository (or any of the parent directories): .git
 ]0;/home/quan/Dropbox/M2/semester 2/statistical learning/tp1/codes]0;quan@quan-Blade: ~/Dropbox/M2/semester 2/statistical learning/tp1/codes[01;32mquan@quan-Blade[00m:[01;34m~/Dropbox/M2/semester 2/statistical learning/tp1/codes[00m$ git add[K[K[Kinit
 Initialized empty Git repository in /home/quan/Dropbox/M2/semester 2/statistical learning/tp1/codes/.git/
 ]0;/home/quan/Dropbox/M2/semester 2/statistical learning/tp1/codes]0;quan@quan-Blade: ~/Dropbox/M2/semester 2/statistical learning/tp1/codes[01;32mquan@quan-Blade[00m:[01;34m~/Dropbox/M2/semester 2/statistical learning/tp1/codes[00m$ git add .
+]0;/home/quan/Dropbox/M2/semester 2/statistical learning/tp1/codes]0;quan@quan-Blade: ~/Dropbox/M2/semester 2/statistical learning/tp1/codes[01;32mquan@quan-Blade[00m:[01;34m~/Dropbox/M2/semester 2/statistical learning/tp1/codes[00m$ git commit -m "^?[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit remote d[Kadd origin "[Kgit@github.com:caoquan95/eestimate-shattering-coeffcient.git
+]0;/home/quan/Dropbox/M2/semester 2/statistical learning/tp1/codes]0;quan@quan-Blade: ~/Dropbox/M2/semester 2/statistical learning/tp1/codes[01;32mquan@quan-Blade[00m:[01;34m~/Dropbox/M2/semester 2/statistical learning/tp1/codes[00m$ git pu[K[Kcommit -m "donte[K[Ke"
+[master (root-commit) 246e22f] done
+ 52 files changed, 1662 insertions(+)
+ create mode 100644 .RData
+ create mode 100644 .Rhistory
+ create mode 100644 .Rproj.user/3B100589/console06/B2430F24
+ create mode 100644 .Rproj.user/3B100589/console06/INDEX001
+ create mode 100644 .Rproj.user/3B100589/pcs/files-pane.pper
+ create mode 100644 .Rproj.user/3B100589/pcs/source-pane.pper
+ create mode 100644 .Rproj.user/3B100589/pcs/windowlayoutstate.pper
+ create mode 100644 .Rproj.user/3B100589/pcs/workbench-pane.pper
+ create mode 100644 .Rproj.user/3B100589/rmd-outputs
+ create mode 100644 .Rproj.user/3B100589/saved_source_markers
+ create mode 100644 .Rproj.user/3B100589/sources/prop/315E69BC
+ create mode 100644 .Rproj.user/3B100589/sources/prop/430BE925
+ create mode 100644 .Rproj.user/3B100589/sources/prop/5084A9E4
+ create mode 100644 .Rproj.user/3B100589/sources/prop/6D62805A
+ create mode 100644 .Rproj.user/3B100589/sources/prop/6E806929
+ create mode 100644 .Rproj.user/3B100589/sources/prop/78B533A6
+ create mode 100644 .Rproj.user/3B100589/sources/prop/831BE8DC
+ create mode 100644 .Rproj.user/3B100589/sources/prop/9E6A6C02
+ create mode 100644 .Rproj.user/3B100589/sources/prop/AF6A3037
+ create mode 100644 .Rproj.user/3B100589/sources/prop/B1D210CE
+ create mode 100644 .Rproj.user/3B100589/sources/prop/D8FB3F1E
+ create mode 100644 .Rproj.user/3B100589/sources/prop/F3EC4A58
+ create mode 100644 .Rproj.user/3B100589/sources/prop/INDEX
+ create mode 100644 .Rproj.user/3B100589/sources/s-A0ABEA69/25D3A49B
+ create mode 100644 .Rproj.user/3B100589/sources/s-A0ABEA69/25D3A49B-contents
+ create mode 100644 .Rproj.user/3B100589/sources/s-A0ABEA69/A6DE218
+ create mode 100644 .Rproj.user/3B100589/sources/s-A0ABEA69/A6DE218-contents
+ create mode 100644 .Rproj.user/3B100589/sources/s-A0ABEA69/B6035CF8
+ create mode 100644 .Rproj.user/3B100589/sources/s-A0ABEA69/B6035CF8-contents
+ create mode 100644 .Rproj.user/3B100589/sources/s-A0ABEA69/EAE30312
+ create mode 100644 .Rproj.user/3B100589/sources/s-A0ABEA69/EAE30312-contents
+ create mode 100644 .Rproj.user/3B100589/sources/s-A0ABEA69/EC774D2
+ create mode 100644 .Rproj.user/3B100589/sources/s-A0ABEA69/EC774D2-contents
+ create mode 100644 .Rproj.user/3B100589/sources/s-A0ABEA69/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 .Rproj.user/shared/notebooks/paths
+ create mode 100644 1.jpeg
+ create mode 100644 Shattering coefficient
+ create mode 100644 Shattering.png
+ create mode 100644 chernoff.r
+ create mode 100644 codes.Rproj
+ create mode 100644 estimating_shattering.r
+ create mode 100644 fit.log
+ create mode 100644 mlp-assessment.r
+ create mode 100644 quan_shattering_R3_single_hyperplane.dat
+ create mode 100644 shattering.r
+ create mode 100644 shattering_R2_single_hyperplane.dat
+ create mode 100644 shattering_R2_single_hyperplane.p
+ create mode 100644 shattering_R2_single_hyperplane.r
+ create mode 100644 shattering_R3_single_hyperplane.dat
+ create mode 100644 tp1.R
+ create mode 100644 tp1_correct.R
+]0;/home/quan/Dropbox/M2/semester 2/statistical learning/tp1/codes]0;quan@quan-Blade: ~/Dropbox/M2/semester 2/statistical learning/tp1/codes[01;32mquan@quan-Blade[00m:[01;34m~/Dropbox/M2/semester 2/statistical learning/tp1/codes[00m$ git push origin ma[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Krm tp1_correct.R 
+]0;/home/quan/Dropbox/M2/semester 2/statistical learning/tp1/codes]0;quan@quan-Blade: ~/Dropbox/M2/semester 2/statistical learning/tp1/codes[01;32mquan@quan-Blade[00m:[01;34m~/Dropbox/M2/semester 2/statistical learning/tp1/codes[00m$ git push origin master
+Counting objects: 57, done.
+Delta compression using up to 8 threads.
+Compressing objects:   1% (1/52)   Compressing objects:   3% (2/52)   Compressing objects:   5% (3/52)   Compressing objects:   7% (4/52)   Compressing objects:   9% (5/52)   Compressing objects:  11% (6/52)   Compressing objects:  13% (7/52)   Compressing objects:  15% (8/52)   Compressing objects:  17% (9/52)   Compressing objects:  19% (10/52)   Compressing objects:  21% (11/52)   Compressing objects:  23% (12/52)   Compressing objects:  25% (13/52)   Compressing objects:  26% (14/52)   Compressing objects:  28% (15/52)   Compressing objects:  30% (16/52)   Compressing objects:  32% (17/52)   Compressing objects:  34% (18/52)   Compressing objects:  36% (19/52)   Compressing objects:  38% (20/52)   Compressing objects:  40% (21/52)   Compressing objects:  42% (22/52)   Compressing objects:  44% (23/52)   Compressing objects:  46% (24/52)   Compressing objects:  48% (25/52)   Compressing objects:  50% (26/52)   Compressing objects:  51% (27/52)   Compressing objects:  53% (28/52)   Compressing objects:  55% (29/52)   Compressing objects:  57% (30/52)   Compressing objects:  59% (31/52)   Compressing objects:  61% (32/52)   Compressing objects:  63% (33/52)   Compressing objects:  65% (34/52)   Compressing objects:  67% (35/52)   Compressing objects:  69% (36/52)   Compressing objects:  71% (37/52)   Compressing objects:  73% (38/52)   Compressing objects:  75% (39/52)   Compressing objects:  76% (40/52)   Compressing objects:  78% (41/52)   Compressing objects:  80% (42/52)   Compressing objects:  82% (43/52)   Compressing objects:  84% (44/52)   Compressing objects:  86% (45/52)   Compressing objects:  88% (46/52)   Compressing objects:  90% (47/52)   Compressing objects:  92% (48/52)   Compressing objects:  94% (49/52)   Compressing objects:  96% (50/52)   Compressing objects:  98% (51/52)   Compressing objects: 100% (52/52)   Compressing objects: 100% (52/52), done.
+Writing objects:   1% (1/57)   Writing objects:   3% (2/57)   Writing objects:   5% (3/57)   Writing objects:   7% (4/57)   Writing objects:   8% (5/57)   Writing objects:  10% (6/57)   Writing objects:  12% (7/57)   Writing objects:  14% (8/57)   Writing objects:  15% (9/57)   Writing objects:  17% (10/57)   Writing objects:  19% (11/57)   Writing objects:  21% (12/57)   Writing objects:  22% (13/57)   Writing objects:  24% (14/57)   Writing objects:  26% (15/57)   Writing objects:  28% (16/57)   Writing objects:  29% (17/57)   Writing objects:  31% (18/57)   Writing objects:  33% (19/57)   Writing objects:  35% (20/57)   Writing objects:  36% (21/57)   Writing objects:  38% (22/57)   Writing objects:  40% (23/57)   Writing objects:  42% (24/57)   Writing objects:  43% (25/57)   Writing objects:  45% (26/57)   Writing objects:  47% (27/57)   Writing objects:  49% (28/57)   Writing objects:  50% (29/57)   Writing objects:  52% (30/57)   Writing objects:  54% (31/57)   Writing objects:  56% (32/57)   Writing objects:  57% (33/57)   Writing objects:  59% (34/57)   Writing objects:  61% (35/57)   Writing objects:  63% (36/57)   Writing objects:  64% (37/57)   Writing objects:  66% (38/57)   Writing objects:  68% (39/57)   Writing objects:  70% (40/57)   Writing objects:  71% (41/57)   Writing objects:  73% (42/57)   Writing objects:  75% (43/57)   Writing objects:  77% (44/57)   Writing objects:  78% (45/57)   Writing objects:  80% (46/57)   Writing objects:  82% (47/57)   Writing objects:  84% (48/57)   Writing objects:  85% (49/57)   Writing objects:  87% (50/57)   Writing objects:  89% (51/57)   Writing objects:  91% (52/57)   Writing objects:  92% (53/57)   Writing objects:  94% (54/57)   Writing objects:  96% (55/57)   Writing objects:  98% (56/57)   Writing objects: 100% (57/57)   Writing objects: 100% (57/57), 93.51 KiB | 3.22 MiB/s, done.
+Total 57 (delta 5), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/5)   [Kremote: Resolving deltas:  20% (1/5)   [Kremote: Resolving deltas: 100% (5/5)   [Kremote: Resolving deltas: 100% (5/5), done.[K
+To github.com:caoquan95/estimate-shattering-coeffcient.git
+ * [new branch]      master -> master
+]0;/home/quan/Dropbox/M2/semester 2/statistical learning/tp1/codes]0;quan@quan-Blade: ~/Dropbox/M2/semester 2/statistical learning/tp1/codes[01;32mquan@quan-Blade[00m:[01;34m~/Dropbox/M2/semester 2/statistical learning/tp1/codes[00m$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   .Rproj.user/3B100589/console06/B2430F24[m
+	[31mmodified:   .Rproj.user/3B100589/sources/prop/D8FB3F1E[m
+	[31mmodified:   .Rproj.user/3B100589/sources/s-A0ABEA69/EAE30312[m
+	[31mdeleted:    tp1_correct.R[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m.Rproj.user/3B100589/console06/B2430F24.env[m
+	[31msubmit/[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;/home/quan/Dropbox/M2/semester 2/statistical learning/tp1/codes]0;quan@quan-Blade: ~/Dropbox/M2/semester 2/statistical learning/tp1/codes[01;32mquan@quan-Blade[00m:[01;34m~/Dropbox/M2/semester 2/statistical learning/tp1/codes[00m$ git add .
