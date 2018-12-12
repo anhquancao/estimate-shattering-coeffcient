@@ -1,0 +1,262 @@
+
+
+*******************************************************************************
+Tue Nov 20 09:19:15 2018
+
+
+FIT:    data read from "shattering_R2_single_hyperplane.dat"
+        format = z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=a*x**2+b*x+c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 1.6500000000e+02   0.00e+00  8.32e+00    1.000000e+00   1.000000e+00   1.000000e+00
+   6 0.0000000000e+00  -inf       8.32e-06    1.000000e+00  -1.000000e+00   2.000000e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -5.06259e-21
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+a               = 1              
+b               = -1             
+c               = 2              
+
+
+*******************************************************************************
+Tue Nov 20 09:19:25 2018
+
+
+FIT:    data read from "shattering_R2_single_hyperplane.dat"
+        format = z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=a*x**2+b*x+c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 0.0000000000e+00  -nan       8.38e+00    1.000000e+00  -1.000000e+00   2.000000e+00
+   1 0.0000000000e+00  -nan       8.38e-01    1.000000e+00  -1.000000e+00   2.000000e+00
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : 0
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+a               = 1              
+b               = -1             
+c               = 2              
+
+
+*******************************************************************************
+Tue Nov 20 09:19:27 2018
+
+
+FIT:    data read from "shattering_R2_single_hyperplane.dat"
+        format = z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=a*x**2+b*x+c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 0.0000000000e+00  -nan       8.38e+00    1.000000e+00  -1.000000e+00   2.000000e+00
+   1 0.0000000000e+00  -nan       8.38e-01    1.000000e+00  -1.000000e+00   2.000000e+00
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : 0
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+a               = 1              
+b               = -1             
+c               = 2              
+
+
+*******************************************************************************
+Tue Nov 20 09:19:28 2018
+
+
+FIT:    data read from "shattering_R2_single_hyperplane.dat"
+        format = z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=a*x**2+b*x+c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 0.0000000000e+00  -nan       8.38e+00    1.000000e+00  -1.000000e+00   2.000000e+00
+   1 0.0000000000e+00  -nan       8.38e-01    1.000000e+00  -1.000000e+00   2.000000e+00
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : 0
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+a               = 1              
+b               = -1             
+c               = 2              
+
+
+*******************************************************************************
+Tue Nov 20 09:19:28 2018
+
+
+FIT:    data read from "shattering_R2_single_hyperplane.dat"
+        format = z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=a*x**2+b*x+c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 0.0000000000e+00  -nan       8.38e+00    1.000000e+00  -1.000000e+00   2.000000e+00
+   1 0.0000000000e+00  -nan       8.38e-01    1.000000e+00  -1.000000e+00   2.000000e+00
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : 0
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+a               = 1              
+b               = -1             
+c               = 2              
+
+
+*******************************************************************************
+Tue Nov 20 09:19:29 2018
+
+
+FIT:    data read from "shattering_R2_single_hyperplane.dat"
+        format = z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=a*x**2+b*x+c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 0.0000000000e+00  -nan       8.38e+00    1.000000e+00  -1.000000e+00   2.000000e+00
+   1 0.0000000000e+00  -nan       8.38e-01    1.000000e+00  -1.000000e+00   2.000000e+00
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : 0
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+a               = 1              
+b               = -1             
+c               = 2              
+
+
+*******************************************************************************
+Tue Nov 20 09:19:30 2018
+
+
+FIT:    data read from "shattering_R2_single_hyperplane.dat"
+        format = z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=a*x**2+b*x+c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 0.0000000000e+00  -nan       8.38e+00    1.000000e+00  -1.000000e+00   2.000000e+00
+   1 0.0000000000e+00  -nan       8.38e-01    1.000000e+00  -1.000000e+00   2.000000e+00
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : 0
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+a               = 1              
+b               = -1             
+c               = 2              
+
+
+*******************************************************************************
+Tue Nov 20 09:37:04 2018
+
+
+FIT:    data read from "shattering_R2_single_hyperplane.dat"
+        format = z
+        #datapoints = 15
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=a*x**2+b*x+c
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 6.2520000000e+03   0.00e+00  6.32e+01    1.000000e+00   1.000000e+00   1.000000e+00
+   5 3.5505559147e+01  -3.06e-04  6.32e-04    9.121687e-01  -1.411280e-01   3.230769e-01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 35.5056
+rel. change during last iteration : -3.06102e-09
+
+degrees of freedom    (FIT_NDF)                        : 12
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.72012
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.9588
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 0.912169         +/- 0.02678      (2.936%)
+b               = -0.141128        +/- 0.4407       (312.2%)
+c               = 0.323077         +/- 1.532        (474.2%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b              -0.972  1.000 
+c               0.792 -0.896  1.000 

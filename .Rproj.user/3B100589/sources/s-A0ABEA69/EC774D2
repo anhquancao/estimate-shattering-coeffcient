@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543917081384.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EC774D2",
+    "lastKnownWriteTime" : 1543918866,
+    "last_content_update" : 1543918866550,
+    "path" : "~/Dropbox/M2/semester 2/statistical learning/tp1/codes/estimating_shattering.r",
+    "project_path" : "estimating_shattering.r",
+    "properties" : {
+        "cursorPosition" : "1,33",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

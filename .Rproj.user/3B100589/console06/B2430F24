@@ -1,0 +1,5 @@
+]0;/home/quan/Dropbox/M2/semester 2/statistical learning/tp1/codes]0;quan@quan-Blade: ~/Dropbox/M2/semester 2/statistical learning/tp1/codes[01;32mquan@quan-Blade[00m:[01;34m~/Dropbox/M2/semester 2/statistical learning/tp1/codes[00m$ git status
+fatal: not a git repository (or any of the parent directories): .git
+]0;/home/quan/Dropbox/M2/semester 2/statistical learning/tp1/codes]0;quan@quan-Blade: ~/Dropbox/M2/semester 2/statistical learning/tp1/codes[01;32mquan@quan-Blade[00m:[01;34m~/Dropbox/M2/semester 2/statistical learning/tp1/codes[00m$ git add[K[K[Kinit
+Initialized empty Git repository in /home/quan/Dropbox/M2/semester 2/statistical learning/tp1/codes/.git/
+]0;/home/quan/Dropbox/M2/semester 2/statistical learning/tp1/codes]0;quan@quan-Blade: ~/Dropbox/M2/semester 2/statistical learning/tp1/codes[01;32mquan@quan-Blade[00m:[01;34m~/Dropbox/M2/semester 2/statistical learning/tp1/codes[00m$ git add .
